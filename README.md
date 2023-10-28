@@ -7,9 +7,9 @@ Two machine learning tasks are demonstrated by the Jupyter notebooks in this rep
 
 
 
-2. **Dataset for Penguin Logistic Regression**
+2. **Logistic Regression on the penguins Dataset**
 
-   - This notebook shows how to apply the Logistic Regression on Penguin Data set which contains Hyperparameter tuning, model development.
+   - This notebook shows how to create the Logistic Regression on Penguin Data set which contains Hyperparameter tuning, Model development.
   
 ## Usage
 
